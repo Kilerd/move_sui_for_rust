@@ -1,0 +1,6 @@
+[book]
+authors = ["Kilerd Chan"]
+language = "cn"
+multilingual = false
+src = "src"
+title = "Move Language(SUI) for rust programmers"
